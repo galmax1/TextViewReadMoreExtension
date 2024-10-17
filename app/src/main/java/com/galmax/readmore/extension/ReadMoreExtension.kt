@@ -12,6 +12,8 @@ import com.galmax.readmore.R
 // It is use for make word always be in one line
 private const val NON_BREAKING_SPACE_CHAR: String = "\u00A0"
 
+
+
 fun TextView.setReadMoreText(
     text: CharSequence? = null,
     showLines: Int,
