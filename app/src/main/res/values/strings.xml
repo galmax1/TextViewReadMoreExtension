@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TextViewReadMoreExtension</string>
+
+    <string name="read_more">read more</string>
+
+    <string name="case1">Case #1</string>
+    <string name="case2">Case #2</string>
+    <string name="case3">Case #3</string>
+    <string name="case4">Case #4</string>
+
+    <string name="params1">"ReadMore params: showLines=10, Content lines count = 5"</string>
+    <string name="params2">"ReadMore params: showLines=3, showLinesDefer=2, Content lines count = 5"</string>
+    <string name="params3">"ReadMore params: showLines=3, showLinesDefer=1, Content lines count = 5"</string>
+    <string name="params4">"ReadMore params: showLines=4, showLinesDefer=0, Content lines count = 5"</string>
+
+    <string name="content_5_lines">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dictum ligula vel neque blandit, nec convallis magna tristique. Fusce consectetur venenatis enim, quis laoreet lacus pretium in. Donec euismod auctor ultricies. Phasellus odio nibh.</string>
+    <string name="reload">Reload</string>
+
+
+</resources>
